@@ -1,0 +1,1 @@
+Dear {{$application->name}}, thanks for your applying!
